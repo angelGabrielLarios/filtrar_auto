@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(to left,#00f2fe ,#4facfe );
+
+}
+
+.title, .subtitle, .error {
+    font-family: 'Staatliches', cursive;
+    
+}
+.title {
+    font-size: 4rem;
+}
+
+.subtitle {
+    font-size: 3rem;
+}
+
+.resultado {
+    font-family: 'Staatliches', cursive;
+}
+
+.error {
+    background-color: red;
+}
